@@ -1,0 +1,18 @@
+generated: '2026-07-20'
+method: searched
+host: https://picnichealth.com
+documents:
+  - path: /.well-known/security.txt
+    status: 404
+  - path: /.well-known/openid-configuration
+    status: 404
+  - path: /.well-known/oauth-authorization-server
+    status: 404
+  - path: /.well-known/api-catalog
+    status: 404
+  - path: /.well-known/ai-plugin.json
+    status: 404
+notes: >-
+  No /.well-known/ discovery documents are published on picnichealth.com. An llms.txt
+  IS published at https://picnichealth.com/llms.txt (200) and captured verbatim at
+  llms/picnichealth-llms.txt.

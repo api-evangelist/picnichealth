@@ -1,0 +1,22 @@
+generated: '2026-07-20'
+method: searched
+source: https://rdocs.picnichealth.com/articles/PicnicHealth.html
+packages:
+  - language: r
+    registry: rspm
+    name: PicnicHealth
+    version: 0.3.18
+    url: https://rdocs.picnichealth.com/
+    install: |
+      options(repos = c(getOption("repos"), PicnicRSPM = "https://rspm.picnichealth.com/github/latest"))
+      install.packages("PicnicHealth")
+    official: true
+    description: >-
+      First-party R package for importing, analyzing, and visualizing PicnicHealth
+      real-world research datasets. Reads locally delivered OMOP-compliant Common Data
+      Model tables (mapped to RxNorm/SNOMED/LOINC) rather than calling a remote REST API.
+      Distributed through PicnicHealth's own RStudio Package Manager, not CRAN.
+    notes: >-
+      Not a network SDK — a local-data analysis library. No REST/OpenAPI client surface
+      is published by PicnicHealth. Function reference at
+      https://rdocs.picnichealth.com/reference/index.html

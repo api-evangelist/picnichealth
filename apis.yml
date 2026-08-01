@@ -1,8 +1,27 @@
 aid: picnichealth
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/picnichealth.png
 name: PicnicHealth
-description: 'PicnicHealth is a company surfaced as a portfolio company of amplify-partners, felicis,
-  lux-capital, slow-ventures and added to the API Evangelist network as a stub for enrichment. Sector:
-  digital-biology. This profile is a lead awaiting the enrichment pipeline.'
+description: >-
+  PicnicHealth is a patient-first digital health platform, founded in 2014, that gathers a
+  person's complete medical history from every point of care into one organized timeline, layers
+  on an AI health assistant (PicnicAI) and a virtual clinical team to help members understand and
+  act on their care, and — with patient consent — turns de-identified records into OMOP-compliant
+  real-world data for life-science and HEOR research. Records are encrypted, patient-owned, and
+  never shared without permission. PicnicHealth does not publish a public REST/OpenAPI developer
+  API; its programmatic surface is a first-party R package that analyzes delivered research
+  datasets mapped to RxNorm/SNOMED/LOINC. Backed by Amplify Partners, Felicis, Lux Capital, and
+  Slow Ventures.
 url: https://raw.githubusercontent.com/api-evangelist/picnichealth/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -15,10 +34,18 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-20'
 tags:
 - Company
 - Digital Biology
+- Health
+- Medical Records
+- Real-World Data
+- Real-World Evidence
+- HEOR
+- OMOP
+- Life Sciences
+- Healthcare
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -28,3 +55,40 @@ maintainers:
 common:
 - type: Website
   url: https://picnichealth.com
+- type: DeveloperPortal
+  url: https://rdocs.picnichealth.com/
+- type: Documentation
+  url: https://rdocs.picnichealth.com/
+- type: APIReference
+  url: https://rdocs.picnichealth.com/reference/index.html
+- type: GettingStarted
+  url: https://rdocs.picnichealth.com/articles/PicnicHealth.html
+- type: GitHubOrganization
+  url: https://github.com/picnichealth
+- type: Blog
+  url: https://picnichealth.com/blog
+- type: Support
+  url: https://picnichealth.com/help-center
+- type: Pricing
+  url: https://picnichealth.com/pricing
+- type: SignUp
+  url: https://app.picnichealth.com/onboard/account/get-started
+- type: Login
+  url: https://app.picnichealth.com/
+- type: TermsOfService
+  url: https://picnic.ai/terms-of-use
+- type: PrivacyPolicy
+  url: https://picnic.ai/privacy-policy
+- type: Packages
+  url: packages/picnichealth-packages.yml
+- type: SDKs
+  url: packages/picnichealth-packages.yml
+- type: LLMsTxt
+  url: llms/picnichealth-llms.txt
+- type: DomainSecurity
+  url: security/picnichealth-domain-security.yml
+x-enrichment:
+  date: '2026-07-20'
+  status: enriched
+  artifacts_added: 4
+  pass: local-v1

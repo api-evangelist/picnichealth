@@ -1,0 +1,32 @@
+# PicnicHealth
+
+> PicnicHealth is a patient-first health platform that gathers your full medical history from every point of care into one organized view, gives you a smart health assistant to help you understand it, and connects you with a virtual clinical team to help you take action. Your data stays yours — encrypted, private, never shared without your permission, and yours to keep for life. Membership is free when you join one of PicnicHealth's research studies.
+
+## Platform
+
+- [Homepage](https://picnichealth.com): A health platform designed to give you clarity in your care journey. Brings your full medical history into one place, provides a smart health assistant to help you understand it, and connects you with a clinical team that develops a personalized care plan.
+- [Explore the app](https://picnichealth.com/explore-the-app): Tools to help you navigate your health: a visit timeline organizing all your records, personalized pinboards, an imaging viewer for original MRIs/X-rays/CT scans, AI search to ask questions about your history, smart highlights that explain medical terms in plain language, lab and vital trend tracking, a smart medication list, a printable health snapshot, and one-click sharing with providers or family.
+- [Own your data](https://picnichealth.com/own-your-data): PicnicHealth's commitment to data privacy and ownership. Your records are encrypted, never shared without your permission, never used to train larger AI datasets, and yours to keep for life — even if you stop using PicnicHealth.
+- [Our Clinic](https://picnichealth.com/our-clinic): PicnicHealth's Virtual Clinic. A dedicated care team reviews your records, builds a unified care plan, and offers care syncs (included with membership) and connected video visits ($149/visit, as low as $0 with insurance). Available to U.S. members 18+ except Arkansas, Hawaii, and West Virginia.
+- [Pricing](https://picnichealth.com/pricing): Membership options. Annual membership is $499/year — or free if you join a PicnicHealth research study — and includes automatic record refreshes, care syncs, on-demand messaging, and the smart health assistant. Pay-per-visit Connected Care visits are $149 (potentially $0 with insurance). HSA/FSA eligible.
+
+## Research & community
+
+- [Make an impact](https://picnichealth.com/make-an-impact): Help advance medical research by joining an observational, non-interventional study from PicnicHealth's research partners (pharmaceutical companies, academic institutions, and disease foundations). Studies are free to join, your data is anonymized, every study is reviewed by an Institutional Review Board, and you keep all records when the study ends.
+- [For caregivers](https://picnichealth.com/caregivers): How to use PicnicHealth to manage a loved one's care. Create accounts for multiple family members, upload power of attorney for full authority, and participate in research on their behalf. Includes FAQs about consent, POA, and caregiver-specific studies.
+- [Change Champions](https://picnichealth.com/change-champions): A community program for advocates of real-world data research and medical record access. Share your health story through blog posts, video interviews, and webinars; shape PicnicHealth's products through feedback; and earn rewards by referring others. Flexible time commitment.
+
+## Resources
+
+- [Blog](https://picnichealth.com/blog): Articles, perspectives, and community stories from PicnicHealth and its Change Champions on health, advocacy, and real-world data research.
+- [Help Center](https://picnichealth.com/help-center): Self-serve knowledge base and FAQ portal for PicnicHealth members.
+
+## Company
+
+- [About PicnicHealth](https://picnichealth.com/about): PicnicHealth's story, mission, and team. Founded in 2014 by co-founder Noga Leviner after her experience navigating a Crohn's disease diagnosis, built on the belief that every patient should have all of their medical records and the tools to understand them. Powered by PicnicAI, the technology that reads medical records the way a doctor would.
+
+## Optional
+
+- [Contact](https://picnichealth.com/contact): Get in touch with PicnicHealth.
+- [Privacy Policy](https://picnic.ai/privacy-policy): Privacy policy applicable to PicnicHealth (hosted on picnic.ai).
+- [Terms of Use](https://picnic.ai/terms-of-use): Terms of use applicable to PicnicHealth (hosted on picnic.ai).
