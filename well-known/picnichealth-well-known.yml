@@ -1,7 +1,11 @@
 generated: '2026-07-20'
 method: searched
 host: https://picnichealth.com
-documents:
+notes: No /.well-known/ discovery documents are published on picnichealth.com. An llms.txt IS published
+  at https://picnichealth.com/llms.txt (200) and captured verbatim at llms/picnichealth-llms.txt.
+hosts:
+- host: https://picnichealth.com
+  documents:
   - path: /.well-known/security.txt
     status: 404
   - path: /.well-known/openid-configuration
@@ -12,7 +16,8 @@ documents:
     status: 404
   - path: /.well-known/ai-plugin.json
     status: 404
-notes: >-
-  No /.well-known/ discovery documents are published on picnichealth.com. An llms.txt
-  IS published at https://picnichealth.com/llms.txt (200) and captured verbatim at
-  llms/picnichealth-llms.txt.
+x-shape-fix:
+  converted: '2026-08-20'
+  from: documents
+  note: Rewritten into hosts[] -> documents[], the only shape well_known_docs() in score.rb reads. A served
+    .well-known surface recorded in any other shape scores as absent.
